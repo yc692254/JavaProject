@@ -2,4 +2,4 @@
 
 this is my lab java project
 
-![RUNOOB 图标](JavaProject/images/1.jpg)
+![RUNOOB 图标](/images/1.jpg)
