@@ -2,4 +2,4 @@
 
 this is my lab java project
 
-![RUNOOB 图标](/images/1.jpg)
+![1.jpg](/images/1.jpg)
